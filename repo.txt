@@ -1,0 +1,9 @@
+URL Repository GitHub: https://jassenkris@github.com/Jassenkris/Portofolio
+
+Branch Utama: main
+
+Branch Latihan: Web-PHP
+
+Nama Mahasiswa: Jassen Kristanto
+
+NIM: 20242029
