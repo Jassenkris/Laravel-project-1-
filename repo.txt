@@ -1,8 +1,8 @@
-URL Repository GitHub: https://jassenkris@github.com/Jassenkris/Portofolio
+URL Repository GitHub: https://github.com/Jassenkris/Laravel-project-1-/edit/main
 
 Branch Utama: main
 
-Branch Latihan: Web-PHP
+Branch Latihan: main
 
 Nama Mahasiswa: Jassen Kristanto
 
